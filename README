@@ -1,0 +1,7 @@
+Hi @everyone, with assignment 3 starting we should get ready for the programming section. For this assignment, there are three main functions that I believe need to happen for the code:
+1 – There needs to be a function to calculate the grade and alter the student’s final grade using the score that the student enters.
+2 – When a user opens the application for the first time, there will be a single bar asking them to add an assignment, max points, grade weight, and their score. We need a function add a new bar each time the student enters in information about the assignment (and maybe an error message if they do not finish entering information about the previous assignment).
+3 – There should be a function to save and load a student’s grade, so they do not have to re-enter everything each time they use the software. This will probably go to a text file since its only a prototype, but I want to at least provide a way to export the student’s score somehow (if we can’t add the score back into the software it’s no problem).
+Make sure to add any file to the GitHub page that I linked earlier in the server, once everything is ready we can make a recording of the software and send it to the professor on Friday. If anyone needs help with JavaScript, here is the link to some documentation for it: https://developer.mozilla.org/en-US/docs/Web/javascript
+
+7/19/22 - I just finished function 2 to add more assignments. It is currently a button.
