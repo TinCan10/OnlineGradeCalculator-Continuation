@@ -27,3 +27,6 @@ With what we have for the current project, here is what we need to do:
 
 As it stands right now, the only part of the software we have right now is the calculator itself. We should be focusing on fixing up the section involving the grade calculator, as it is the main point of the prototype.
 Here is another link to the GitHub file repository that will be used for submitting the final project: https://github.com/TinCan10/GradeCalculator.
+
+
+7/24/22 - I have now finished all three main functions that I listed at the start. All that is left to do is to clean up the UI and add any extra functions/fixes that will help complete our system requirements.
