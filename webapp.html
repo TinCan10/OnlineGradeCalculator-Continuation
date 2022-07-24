@@ -84,7 +84,7 @@ color: white;
 <p> &nbsp</p>
 
 
-<!-- Table section changed by Joshua Nussbaumer -->
+<!-- Table section and buttons changed by Joshua Nussbaumer -->
 <center><h2>Final Grade:</h2> <h2 id="grade"></h2></center>
   <table id="assignments" class="center" border = "1">
     <tr>
@@ -94,7 +94,9 @@ color: white;
       <th>Grade Weight</th>
     </tr>
   </table>
-<input type="button" onclick="addRow()" value="Add New Assignment" class="center-screen">
+<input type="button" onclick="getInfo()" value="Add New Assignment" class="center-screen">
+<input type="button" onclick="saveData()" value="Save Grades">
+<input type="button" onclick="loadData()" value="Load Grades">
 </body>
 <script src="functions.js"></script>
 </html> 
