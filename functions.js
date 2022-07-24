@@ -1,5 +1,5 @@
 /*
-* Functions to add a new assignment and update the final grade by Joshua Nussbaumer
+* Functions below added by Joshua Nussbaumer
 */
 
 //Sets the percentage to 100% when the user first enters the webapp
